@@ -1,0 +1,29 @@
+[Info]
+name ="Sakura"
+displayname ="Sakura"
+versiondate =09,19,2009
+mugenversion =1.0
+author ="ixnaydk"
+pal.defaults =1,2,3,4                            
+localcoord = 320,240
+
+[Files]
+cmd =psakura.cmd
+cns =psakura.cns
+st =psakura.cns
+stcommon =common1.cns
+sprite =psakura.sff
+anim =psakura.air
+sound =psakura.snd
+pal1=psakura.act
+
+[Palette Keymap]
+x = 1
+y = 2
+z = 3
+a = 4
+b = 5
+c = 6
+[Arcade]
+intro.storyboard=
+ending.storyboard=
